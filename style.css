@@ -32,7 +32,7 @@ h1 {
 }
 
 .preview {
-    width: 100px;
+    width: 150px;
     height: 100px;
     object-fit: cover;
     cursor: pointer;
